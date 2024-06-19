@@ -1,0 +1,2 @@
+# Descripción del curso 📓
+Embárquese en este curso para obtener información práctica sobre el análisis de datos. Explore la arquitectura de BigQuery, ejecute consultas analíticas y optimice los flujos de trabajo. Gane confianza en la navegación de conjuntos de datos, elementos de consulta y manipulación de datos. Descubra técnicas avanzadas para un análisis eficaz y domine el arte de unir datos. Al finalizar, navegue por BigQuery con eficacia, optimice las consultas y analice los datos con rapidez.
